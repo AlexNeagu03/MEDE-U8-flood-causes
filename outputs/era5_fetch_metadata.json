@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-10-20T20:14:43+00:00",
+  "source": "Open-Meteo archive API",
+  "variables_source": {
+    "temperature_2m": "era5_land",
+    "soil_moisture_0_to_7cm": "era5_land",
+    "precipitation": "era5_seamless"
+  },
+  "events_input": 20,
+  "events_skipped": 0,
+  "rows_written": 38,
+  "era5_land_dataset_reference": "https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land"
+}

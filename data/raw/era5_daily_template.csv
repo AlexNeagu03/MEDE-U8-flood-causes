@@ -1,0 +1,2 @@
+event_id,date,precip_mm,t2m_mean_c,soil_moisture_m3m3,grid_id,lat,lon
+E001,2024-05-01,25.4,18.2,0.42,G1,45.4,27.9
