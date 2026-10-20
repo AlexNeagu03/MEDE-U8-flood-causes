@@ -1,0 +1,21 @@
+event_id,activation_code,event_name,country,region,start_date,end_date,hazard_type,source_url,event_lat,event_lon
+EMSR783,EMSR783,"Flood in Scotland, United Kingdom",United Kingdom,N/A,2024-12-30,2024-12-30,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR783,57.133575,-3.922462
+EMSR775,EMSR775,Flood in Norway,Norway,N/A,2024-10-30,2024-10-31,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR775,60.854900,6.367800
+EMSR773,EMSR773,"Flood in Valencia Region, Spain",Spain,N/A,2024-10-29,2024-10-29,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR773,39.289160,-0.435900
+EMSR771,EMSR771,"Flood in Emilia- Romagna, Italy",Italy,N/A,2024-10-20,2024-10-20,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR771,44.526505,11.314545
+EMSR770,EMSR770,Flood in Bosnia and Herzegovina,Bosnia and Herzegovina,N/A,2024-10-04,2024-10-04,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR770,43.450288,17.694091
+EMSR768,EMSR768,Flood in Croatia and Slovenia,"Slovenia, Croatia",N/A,2024-10-04,2024-10-04,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR768,45.471715,15.548095
+EMSR766,EMSR766,Flood in Croatia,Croatia,N/A,2024-09-24,2024-09-25,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR766,45.673449,18.957527
+EMSR764,EMSR764,"Flood in Lower Austria, Austria",Austria,N/A,2024-09-14,2024-09-22,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR764,48.185061,16.376631
+EMSR763,EMSR763,Flood in Germany,Germany,N/A,2024-09-20,2024-09-22,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR763,52.075383,14.735794
+EMSR762,EMSR762,"Flood in Emilia-Romagna, Italy",Italy,N/A,2024-09-18,2024-09-18,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR762,44.281576,11.891452
+EMSR761,EMSR761,"Flood in Dresden, Germany",Germany,N/A,2024-09-18,2024-09-18,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR761,51.051891,13.729820
+EMSR759,EMSR759,"Flood on the Danube in Hungary, Austria, and Slovakia","Hungary, Austria, Slovakia",N/A,2024-09-13,2024-09-14,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR759,47.750803,17.974132
+EMSR758,EMSR758,"Flood in Galati and Vaslui counties, Romania",Romania,N/A,2024-09-14,2024-09-14,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR758,45.788551,27.668568
+EMSR757,EMSR757,"Flood in March, Morava Basins, Slovakia",Slovakia,N/A,2024-09-13,2024-09-13,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR757,48.394821,16.913951
+EMSR756,EMSR756,Flood in South West Poland,"Poland, Czechia",N/A,2024-09-13,2024-09-14,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR756,50.603763,16.667259
+EMSR755,EMSR755,"Flood in Brandenbourg, Germany",Germany,N/A,2024-09-13,2024-09-14,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR755,51.948906,14.700623
+EMSR728,EMSR728,Flood in Germany,Germany,N/A,2024-05-30,2024-05-31,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR728,48.973487,10.890198
+EMSR725,EMSR725,Flood in Sweden,Sweden,N/A,2024-05-20,2024-05-20,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR725,65.844548,24.123043
+EMSR722,EMSR722,"Flood in Saarland region, Germany",Germany,N/A,2024-05-17,2024-05-17,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR722,49.292609,7.089958
+EMSR721,EMSR721,"Flood in Lombardy, Italy",Italy,N/A,2024-05-14,2024-05-16,Flood,https://mapping.emergency.copernicus.eu/activation/EMSR721,45.596479,9.396557
